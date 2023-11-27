@@ -1,0 +1,22 @@
+
+C
+#
+__dummy"
+__dummy_idJdomino_feast
+ğ‚“«ÈØ…ğ‚“«ÈØ…
+L
+,
+driver	driver id"	driver_idJdomino_feast
+ğ‚“«ØÈß…ğ‚“«ØÈß…1"$4bb5d8e8-3ce9-4f6c-8cee-ad69190d1f82*ğ‚“«àÿ…2Ø
+·
+driver_hourly_statsdomino_feastdriver"
+	conv_rate"
+acc_rate"
+avg_daily_trips*
+teamdriver_performance2€£:¤event_timestamp*createdZ53/features/fs-troubleshoot/data/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢driver_hourly_stats_source@b
+	driver_id
+ğ‚“«øÕå…ğ‚“«øÕå…R~
+|
+,feast.infra.online_stores.sqlite.SqliteTable"L
+(/features/fs-troubleshoot/data/online.db domino_feast_driver_hourly_statsb³event_timestamp*createdZ53/features/fs-troubleshoot/data/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢driver_hourly_stats_sourceªdomino_feastz4
+domino_feast$cb817366-7ebb-4411-9ffb-8c3d64ed97a6
