@@ -1,22 +1,23 @@
 
-C
+J
+,
+driver	driver id"	driver_idJdomino_feast
+İÉ“«ÀëœEİÉ“«ÀëœE
+A
 #
 __dummy"
-__dummy_idJdomino_feast
-ğ‚“«ÈØ…ğ‚“«ÈØ…
-L
-,
-driver	driver id"	driver_idJdomino_feast
-ğ‚“«ØÈß…ğ‚“«ØÈß…1"$eeffc15b-784d-46d5-bcd8-10d286fc7141*€¿“«°§¤]2Ø
+__dummy_idJdomino_feast
+İÉ“«¸¯£EİÉ“«¸¯£E1"$f3ce4ead-9329-4713-9673-145abfe9e4e9*„Ê“«ˆ§ƒù2é
 ·
 driver_hourly_statsdomino_feastdriver"
 	conv_rate"
 acc_rate"
 avg_daily_trips*
 teamdriver_performance2€£:¤event_timestamp*createdZ53/features/fs-troubleshoot/data/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢driver_hourly_stats_source@b
-	driver_id
-ğ‚“«øÕå…ğ‚“«øÕå…R~
+	driver_id-
+İÉ“«ˆ°¨E„Ê“«ğ…çø
+áõ™ğÇ“«R~
 |
 ,feast.infra.online_stores.sqlite.SqliteTable"L
 (/features/fs-troubleshoot/data/online.db domino_feast_driver_hourly_statsb³event_timestamp*createdZ53/features/fs-troubleshoot/data/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢driver_hourly_stats_sourceªdomino_feastz4
-domino_feast$cb817366-7ebb-4411-9ffb-8c3d64ed97a6
+domino_feast$8a0db856-af13-47a8-8261-c4dd6b9173f2
